@@ -522,7 +522,7 @@ h1 span {
 
 .hero__image-inner {
   overflow: hidden;
-  height: 55dvh;
+  height: 45dvh;
   transition: transform 0.3s;
   transform: translate(0, 0);
 }
