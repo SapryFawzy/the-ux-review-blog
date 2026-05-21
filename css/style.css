@@ -508,6 +508,7 @@ h1 span {
 
 .hero__image {
   align-self: center;
+  height: fit-content;
   transform: rotate(2deg);
 }
 
