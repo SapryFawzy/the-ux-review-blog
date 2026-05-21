@@ -522,6 +522,7 @@ h1 span {
 
 .hero__image-inner {
   overflow: hidden;
+  height: 55dvh;
   transition: transform 0.3s;
   transform: translate(0, 0);
 }
@@ -532,7 +533,7 @@ h1 span {
 
 .hero__image-inner img {
   top: 50%;
-  height: 35dvh;
+  height: 100%;
   object-fit: cover;
   transform: translateY(-50%);
 }
