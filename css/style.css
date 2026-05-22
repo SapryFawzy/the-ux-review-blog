@@ -522,7 +522,7 @@ h1 span {
 
 .hero__image-inner {
   overflow: hidden;
-  height: 45dvh;
+  height: 376px;
   transition: transform 0.3s;
   transform: translate(0, 0);
 }
@@ -1278,20 +1278,6 @@ h1 span {
     transform: rotate(0);
   }
 
-  .hero__image-inner {
-    overflow: hidden;
-    height: 35dvh;
-  }
-
-  .hero__image-inner:hover {
-    transform: translate(-3px, -3px);
-  }
-
-  .hero__image img {
-    object-fit: cover;
-    height: 100%;
-  }
-
   .latestArticles__content .card__info .tag {
     margin-block: 12px;
   }
@@ -1408,7 +1394,7 @@ h1 span {
   }
 
   .hero__image-inner {
-    height: 40dvh;
+    height: 328px;
   }
 
   .latestArticles__content button,
@@ -1708,6 +1694,10 @@ h1 span {
     padding: 12px 28px;
     font-size: 15px;
     line-height: 22px;
+  }
+
+  .hero__image-inner {
+    height: 280px;
   }
 
   .tag.bg-black {
